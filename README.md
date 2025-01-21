@@ -58,6 +58,6 @@ I am eager to learn and stay updated on industry trends to provide cutting-edge 
 I am enthusiastic about collaborating with like-minded professionals and businesses to create exceptional digital experiences. Let's connect and explore how we can work together to achieve your goals and bring your projects to life. Feel free to reach me for potential collaborations, networking, or discussing innovative ideas.
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pramudyavizcal&theme=dracula&mode=weekly)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramudyavizcal&layout=compact&theme=vision-friendly-dark)](https://github.com/pramudyavizcal/github-readme-stats)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pramudyavizcal&show_icons=true&theme=radical)  
