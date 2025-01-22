@@ -16,7 +16,7 @@
 </div>
 
 ---
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### :man_technologist: About Me :
 Hi, my name is Pramudya Vizkal Arfianto, I am a Web Developer, Android App Dev & Digital Marketer from Indonesia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. And I also love everything about space with all the stuff 🌌
 
