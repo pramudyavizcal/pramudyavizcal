@@ -29,6 +29,7 @@ Hi, my name is Pramudya Vizkal Arfianto, I am a Web Developer, Android App Dev &
 - 📫 How to reach me: [@pramudyavizcal](https://instagram.com/pramudyavizcal_)
 
 **Skills and Competencies:**
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
@@ -46,6 +47,10 @@ Hi, my name is Pramudya Vizkal Arfianto, I am a Web Developer, Android App Dev &
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/353800/google-ads.svg" title="Google Ads" alt="Google Ads" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/431122/meta.svg" title="Meta Ads" alt="Meta Ads" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/google-search-console.svg" title="Google Search Console" alt="Google Search Console" width="40" height="40"/>&nbsp;
+  <img src="https://logos-world.net/wp-content/uploads/2021/02/Google-Analytics-Logo.png" title="Google Analitycs" alt="Google Analitycs" width="40" height="40"/>&nbsp;
+  <img src="https://companieslogo.com/img/orig/SEMR-4f4c3210.png?t=1720244493" title="SEMrush" alt="SEMrush" width="40" height="40"/>&nbsp;
+  <br>
 </div>
 
 **Key Strengths:**
