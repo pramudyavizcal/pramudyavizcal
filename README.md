@@ -50,16 +50,18 @@ Hi, my name is Pramudya Vizkal Arfianto, I am a Web Developer, Android App Dev &
   <img src="https://cdn.worldvectorlogo.com/logos/google-search-console.svg" title="Google Search Console" alt="Google Search Console" width="40" height="40"/>&nbsp;
   <img src="https://logos-world.net/wp-content/uploads/2021/02/Google-Analytics-Logo.png" title="Google Analitycs" alt="Google Analitycs" width="40" height="40"/>&nbsp;
   <img src="https://companieslogo.com/img/orig/SEMR-4f4c3210.png?t=1720244493" title="SEMrush" alt="SEMrush" width="40" height="40"/>&nbsp;
-  <br>
 </div>
+<br>
 
 **Key Strengths:**
+
 Problem-solving: Ability to identify and resolve complex technical issues efficiently.
 Creativity: Bringing innovative solutions to digital marketing and IT challenges.
 Collaboration: Strong team player with excellent communication skills, fostering collaborative efforts to achieve common goals.
 I am eager to learn and stay updated on industry trends to provide cutting-edge solutions. My passion for technology and digital marketing drives me to continuously seek opportunities for growth and innovation.
 
 **Let's Collaborate:**
+
 I am enthusiastic about collaborating with like-minded professionals and businesses to create exceptional digital experiences. Let's connect and explore how we can work together to achieve your goals and bring your projects to life. Feel free to reach me for potential collaborations, networking, or discussing innovative ideas.
 
 ### :fire: My Stats :
